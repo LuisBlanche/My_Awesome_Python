@@ -50,8 +50,16 @@ This repo lists all the packages/repo that I have been using and those that I wa
 : Distributed DataFrames
 
 
+# Notebooks
+
+[jupyter](https://jupyter.org/)
+
+
 [papermill](https://papermill.readthedocs.io/en/latest/)
 : Papermill is a tool for parameterizing and executing Jupyter Notebooks.
+
+[jupytext](https://github.com/mwouts/jupytext)
+: Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 
 # Visualisation 
 
@@ -60,7 +68,6 @@ This repo lists all the packages/repo that I have been using and those that I wa
 [seaborn](https://seaborn.pydata.org/)
 
 [matplotlib](https://matplotlib.org/)
-
 
 
 # tests 

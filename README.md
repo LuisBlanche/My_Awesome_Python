@@ -45,9 +45,16 @@ This repo lists all the packages/repo that I have been using and those that I wa
 
 [pandas](https://pandas.pydata.org/)
 : DataFrames
-  
+
+[missingno](https://github.com/ResidentMario/missingno)
+: missing data visualisation for pandas 
+
+[pandas_profiling](https://github.com/pandas-profiling/pandas-profiling)
+: Create HTML profiling reports from pandas DataFrame objects
+
 [pyspark](https://spark.apache.org/docs/2.1.0/api/python/pyspark.sql.html)
 : Distributed DataFrames
+
 
 
 # Notebooks
@@ -69,6 +76,7 @@ This repo lists all the packages/repo that I have been using and those that I wa
 
 [matplotlib](https://matplotlib.org/)
 
+[hvplot](https://github.com/holoviz/hvplot)
 
 # tests 
 
@@ -117,6 +125,10 @@ behave is behaviour-driven development, Python style.
 
 [parallax](https://github.com/uber-research/parallax)
 : Tool for interactive embeddings visualization
+
+
+[faker](https://faker.readthedocs.io/en/latest/index.html)
+: Faker is a Python package that generates fake data for you
 
 
 # Other than python 

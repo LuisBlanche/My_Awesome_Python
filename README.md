@@ -1,5 +1,5 @@
 # My_Awesome_Python
-This repo lists all the packages/repo that I have been using and those that I want to try
+This repo lists  packages/repo that I have used and found useful over the years and those that I want to try
 
 
 # Machine Learning 

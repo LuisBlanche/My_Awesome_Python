@@ -7,7 +7,7 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [Scikit-Learn](https://scikit-learn.org/stable/) 
 : An all round machine learning library from data preparation to model selection
   
-[Tensorflow](https://www.tensorflow.org/resources/learn-ml)  
+[Tensorflow](https://www.tensorflow.org/resources/learn-ml)
 : Machine Learning/Deep Learning Frameworks awesome to use in production as well (GCP notably) 
   
 [Yellowbrick](https://www.scikit-yb.org/en/latest/)

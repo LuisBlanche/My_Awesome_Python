@@ -132,6 +132,10 @@ behave is behaviour-driven development, Python style.
 
 [deep graph learning](https://github.com/dmlc/dgl)
 
+[cortex](https://github.com/cortexlabs/cortex) 
+: Deploy ML models in production on AWS 
+
+
 # Other than python 
 
 [QGIS](https://qgis.org/fr/site/)

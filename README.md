@@ -88,6 +88,9 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [kedro](https://github.com/quantumblacklabs/kedro)
 : A Python library that implements software engineering best-practice for data and ML pipelines.
 
+[scrapy](https://github.com/scrapy/scrapy)
+: Scrapy, a fast high-level web crawling & scraping framework for Python. https://scrapy.org
+
 
 # Web Apps
 

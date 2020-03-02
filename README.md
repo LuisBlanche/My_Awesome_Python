@@ -15,13 +15,23 @@ This repo lists  packages/repo that I have used and found useful over the years 
   
 [skope rules](https://github.com/scikit-learn-contrib/skope-rules)
 : machine learning with logical rules in Python
+
+
+[MLFLow](https://github.com/mlflow/mlflow)
+: Open source platform for the machine learning lifecycle
   
 # NLP 
+[spacy](https://spacy.io/) 
+: Industrial-Strength Natural Language Processing
+
 [nltk](https://www.nltk.org/)
 : NLTK is a leading platform for building Python programs to work with human language data.
   
 [gensim](https://radimrehurek.com/gensim/)
 : topic modelling
+
+[docanno](https://github.com/doccano/doccano)
+: Open source text annotation tool for machine learning practitioner. https://doccano.herokuapp.com
  
 # Time Series 
 [tsfresh](https://tsfresh.readthedocs.io/en/latest/)
@@ -102,17 +112,12 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 # Want to try 
 
-[MLFLow](https://github.com/mlflow/mlflow)
-: Open source platform for the machine learning lifecycle
 
 [Manifold](https://github.com/uber/manifold)
 : A model-agnostic visual debugging tool for machine learning http://manifold.mlvis.io/
 
 [streamlit](https://github.com/streamlit/streamlit)
 : Streamlit — The fastest way to build custom ML tools https://streamlit.io
-
-[spacy](https://spacy.io/)
-: Industrial-Strength Natural Language Processing
 
 [scikit-lego](https://github.com/koaning/scikit-lego)
 : Missing blocks for sklearn pipelines, notably Fairness Classifier to try 

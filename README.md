@@ -65,6 +65,11 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [pyspark](https://spark.apache.org/docs/2.1.0/api/python/pyspark.sql.html)
 : Distributed DataFrames
 
+[ray](https://github.com/ray-project/ray)
+: A fast and simple framework for building and running distributed applications.
+
+[modin](https://github.com/modin-project/modin)
+: distributed pandas
 
 
 # Notebooks

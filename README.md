@@ -97,6 +97,8 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 [pytest](https://docs.pytest.org/en/latest/)
 
+[tddat](https://tdda.readthedocs.io/en/v1.0.31/overview.html)
+: Test Driven Data Analysis
 
 # Frameworks
 

@@ -16,7 +16,6 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [skope rules](https://github.com/scikit-learn-contrib/skope-rules)
 : machine learning with logical rules in Python
 
-
 [MLFLow](https://github.com/mlflow/mlflow)
 : Open source platform for the machine learning lifecycle
   
@@ -118,7 +117,8 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 
 # Want to try 
-
+[BentoML](https://github.com/bentoml/BentoML)
+: Easy ML Model serving
 
 [Manifold](https://github.com/uber/manifold)
 : A model-agnostic visual debugging tool for machine learning http://manifold.mlvis.io/

@@ -18,6 +18,8 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 [MLFLow](https://github.com/mlflow/mlflow)
 : Open source platform for the machine learning lifecycle
+
+
   
 # NLP 
 [spacy](https://spacy.io/) 
@@ -70,11 +72,14 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [modin](https://github.com/modin-project/modin)
 : distributed pandas
 
+[dask](https://dask.org/)
+: Dask provides advanced parallelism for analytics
+
+
 
 # Notebooks
 
 [jupyter](https://jupyter.org/)
-
 
 [papermill](https://papermill.readthedocs.io/en/latest/)
 : Papermill is a tool for parameterizing and executing Jupyter Notebooks.
@@ -96,7 +101,7 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 [pytest](https://docs.pytest.org/en/latest/)
 
-[tddat](https://tdda.readthedocs.io/en/v1.0.31/overview.html)
+[tdda](https://tdda.readthedocs.io/en/v1.0.31/overview.html)
 : Test Driven Data Analysis
 
 # Frameworks
@@ -117,6 +122,9 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 
 # Want to try 
+[PyCaret](https://pycaret.org/guide/)
+: Low Code machine learning (cf R Caret)
+
 [BentoML](https://github.com/bentoml/BentoML)
 : Easy ML Model serving
 

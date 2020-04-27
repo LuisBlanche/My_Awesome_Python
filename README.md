@@ -122,6 +122,10 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 
 # Want to try 
+
+[eo-]earn](https://github.com/sentinel-hub/eo-learn)
+: sattelite imagery data with preprocessing tools
+
 [PyCaret](https://pycaret.org/guide/)
 : Low Code machine learning (cf R Caret)
 

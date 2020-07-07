@@ -19,6 +19,8 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [MLFLow](https://github.com/mlflow/mlflow)
 : Open source platform for the machine learning lifecycle
 
+[ktrain](https://github.com/amaiya/ktrain)
+: fast and easy deep learning wrapper for tensorflow/Keras (text, image)
 
   
 # NLP 

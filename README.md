@@ -115,7 +115,9 @@ This repo lists  packages/repo that I have used and found useful over the years 
 : Scrapy, a fast high-level web crawling & scraping framework for Python. https://scrapy.org
 
 
-# Web Apps
+# Web Apps / APIs
+
+[flask](https://github.com/pallets/flask)
 
 [django](https://github.com/django/django)
 
@@ -124,6 +126,12 @@ This repo lists  packages/repo that I have used and found useful over the years 
 
 
 # Want to try 
+
+[fastapi](https://github.com/tiangolo/fastapi)
+: fast (high-performance), web framework for building APIs with Python 3.6+
+
+[darts](https://github.com/unit8co/darts)
+: easy manipulation and forecasting of time series.
 
 [eo-learn](https://github.com/sentinel-hub/eo-learn)
 : sattelite imagery data with preprocessing tools

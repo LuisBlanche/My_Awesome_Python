@@ -22,6 +22,9 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [ktrain](https://github.com/amaiya/ktrain)
 : fast and easy deep learning wrapper for tensorflow/Keras (text, image)
 
+[scikit-lego](https://github.com/koaning/scikit-lego)
+: Missing blocks for sklearn pipelines, notably Fairness Classifier to try 
+
   
 # NLP 
 [spacy](https://spacy.io/) 
@@ -124,6 +127,9 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [dash](https://dash.plot.ly/)
 : Easy dashboarding 
 
+[streamlit](https://github.com/streamlit/streamlit)
+: Streamlit — The fastest way to build custom ML tools https://streamlit.io
+
 
 # Want to try 
 
@@ -145,12 +151,6 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [Manifold](https://github.com/uber/manifold)
 : A model-agnostic visual debugging tool for machine learning http://manifold.mlvis.io/
 
-[streamlit](https://github.com/streamlit/streamlit)
-: Streamlit — The fastest way to build custom ML tools https://streamlit.io
-
-[scikit-lego](https://github.com/koaning/scikit-lego)
-: Missing blocks for sklearn pipelines, notably Fairness Classifier to try 
-
 [behave](https://behave.readthedocs.io/en/latest/)
 behave is behaviour-driven development, Python style.
 
@@ -162,7 +162,6 @@ behave is behaviour-driven development, Python style.
 
 [parallax](https://github.com/uber-research/parallax)
 : Tool for interactive embeddings visualization
-
 
 [faker](https://faker.readthedocs.io/en/latest/index.html)
 : Faker is a Python package that generates fake data for you

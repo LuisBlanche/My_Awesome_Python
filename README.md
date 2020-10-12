@@ -25,6 +25,8 @@ This repo lists  packages/repo that I have used and found useful over the years 
 [scikit-lego](https://github.com/koaning/scikit-lego)
 : Missing blocks for sklearn pipelines, notably Fairness Classifier to try 
 
+[interpret](https://github.com/interpretml/interpret)
+: Fit interpretable models. Explain blackbox machine learning
   
 # NLP 
 [spacy](https://spacy.io/) 
